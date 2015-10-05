@@ -1,2 +1,2 @@
-# memory-training
-Memory training area for Elda
+# Memory Training
+Memory training area for Elda.
