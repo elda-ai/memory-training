@@ -1,6 +1,6 @@
 {
   "concepts": [
-    "sample/predicates.js",
-    "sample/commands.js"
+    "sample/predicates.json",
+    "sample/commands.json"
   ]
 }
