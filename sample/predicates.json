@@ -1,0 +1,7 @@
+{
+  "predicates": [
+    ["is a", "is", "predicate"],
+    ["says", "is", "predicate"],
+    ["said", "is", "predicate"]
+  ]
+}
