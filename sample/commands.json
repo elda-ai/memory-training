@@ -1,8 +1,0 @@
-{
-  "predicates": [
-    ["disconnect", "is a", "command"],
-    ["bye", "is a", "command"],
-    ["quit", "is a", "command"],
-    ["forget", "is a", "command"]
-  ]
-}

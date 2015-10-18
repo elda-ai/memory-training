@@ -1,7 +1,0 @@
-{
-  "predicates": [
-    ["is a", "is a", "predicate"],
-    ["says", "is a", "predicate"],
-    ["said", "is a", "predicate"]
-  ]
-}
