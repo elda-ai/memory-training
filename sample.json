@@ -1,17 +1,17 @@
 {
   "concepts": [
-    "i-is a.json",
-    "p-predicate.json",
-    "s-says.json",
-    "s-said.json",
-    "d-disconnect.json",
-    "c-command.json",
-    "b-bye.json",
-    "q-quit.json",
-    "f-forget.json"
+    "i/is a.json",
+    "p/predicate.json",
+    "s/says.json",
+    "s/said.json",
+    "d/disconnect.json",
+    "c/command.json",
+    "b/bye.json",
+    "q/quit.json",
+    "f/forget.json"
   ],
   "files": {
-    "i-is a.json": {
+    "i/is a.json": {
       "predicates": [
         [
           "is a",
@@ -20,7 +20,7 @@
         ]
       ]
     },
-    "p-predicate.json": {
+    "p/predicate.json": {
       "predicates": [
         [
           "predicate",
@@ -39,7 +39,7 @@
         ]
       ]
     },
-    "s-says.json": {
+    "s/says.json": {
       "predicates": [
         [
           "says",
@@ -48,7 +48,7 @@
         ]
       ]
     },
-    "s-said.json": {
+    "s/said.json": {
       "predicates": [
         [
           "said",
@@ -57,7 +57,7 @@
         ]
       ]
     },
-    "d-disconnect.json": {
+    "d/disconnect.json": {
       "predicates": [
         [
           "disconnect",
@@ -66,7 +66,7 @@
         ]
       ]
     },
-    "c-command.json": {
+    "c/command.json": {
       "predicates": [
         [
           "command",
@@ -90,7 +90,7 @@
         ]
       ]
     },
-    "b-bye.json": {
+    "b/bye.json": {
       "predicates": [
         [
           "bye",
@@ -99,7 +99,7 @@
         ]
       ]
     },
-    "q-quit.json": {
+    "q/quit.json": {
       "predicates": [
         [
           "quit",
@@ -108,7 +108,7 @@
         ]
       ]
     },
-    "f-forget.json": {
+    "f/forget.json": {
       "predicates": [
         [
           "forget",
