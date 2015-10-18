@@ -1,0 +1,14 @@
+{
+  "predicates": [
+    [
+      "quit",
+      "is a",
+      "command"
+    ],
+    [
+      "quit",
+      "is a",
+      "command"
+    ]
+  ]
+}

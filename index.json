@@ -1,6 +1,13 @@
 {
   "concepts": [
-    "sample/predicates.json",
-    "sample/commands.json"
+    "i/is a.json",
+    "p/predicate.json",
+    "s/says.json",
+    "s/said.json",
+    "d/disconnect.json",
+    "c/command.json",
+    "b/bye.json",
+    "q/quit.json",
+    "f/forget.json"
   ]
 }
