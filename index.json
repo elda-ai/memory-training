@@ -8,6 +8,8 @@
     "c/command.json",
     "b/bye.json",
     "q/quit.json",
-    "f/forget.json"
+    "f/forget.json",
+    "i/is an.json",
+    "a/a predicate.json"
   ]
 }
