@@ -1,14 +1,14 @@
 {
   "predicates": [
     [
+      "Elda",
       "is an",
-      "is a",
-      "predicate"
+      "AI"
     ],
     [
-      "is an",
+      "Elda",
       "is",
-      "a predicate"
+      "an AI"
     ]
   ]
 }

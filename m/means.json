@@ -1,9 +1,9 @@
 {
   "predicates": [
     [
-      "bye",
+      "means",
       "is a",
-      "command"
+      "predicate"
     ]
   ]
 }

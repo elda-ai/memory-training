@@ -1,7 +1,7 @@
 {
   "concepts": [
-    "i/is a.json",
     "p/predicate.json",
+    "i/is a.json",
     "s/says.json",
     "s/said.json",
     "i/is an.json",
@@ -13,8 +13,8 @@
     "q/quit.json",
     "f/forget.json",
     "a/a predicate.json",
+    "a/AI.json",
     "e/Elda.json",
-    "a/an AI.json",
-    "a/AI.json"
+    "a/an AI.json"
   ]
 }
