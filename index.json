@@ -19,7 +19,10 @@
     "j/John.json",
     "a/Artificial Intelligence.json",
     "a/a boy.json",
+    "m/male.json",
     "b/boy.json",
-    "m/male.json"
+    "\\/\\n.json",
+    "a/a newline character.json",
+    "n/newline character.json"
   ]
 }

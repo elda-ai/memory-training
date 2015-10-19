@@ -1,0 +1,9 @@
+{
+  "predicates": [
+    [
+      "a newline character",
+      "~is",
+      "\\n"
+    ]
+  ]
+}
