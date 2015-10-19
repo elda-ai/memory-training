@@ -1,8 +1,8 @@
 {
   "predicates": [
     [
-      "boy",
-      "~is a",
+      "male",
+      "~is",
       "John"
     ]
   ]

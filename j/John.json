@@ -4,6 +4,21 @@
       "John",
       "created",
       "Elda"
+    ],
+    [
+      "John",
+      "is",
+      "a boy"
+    ],
+    [
+      "John",
+      "is",
+      "male"
+    ],
+    [
+      "John",
+      "is a",
+      "boy"
     ]
   ]
 }

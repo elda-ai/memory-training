@@ -13,11 +13,13 @@
     "b/bye.json",
     "q/quit.json",
     "f/forget.json",
-    "a/AI.json",
     "e/Elda.json",
+    "a/AI.json",
     "a/an AI.json",
-    "a/Artificial Intelligence.json",
     "j/John.json",
-    "b/boy.json"
+    "a/Artificial Intelligence.json",
+    "a/a boy.json",
+    "b/boy.json",
+    "m/male.json"
   ]
 }
