@@ -1,0 +1,9 @@
+{
+  "predicates": [
+    [
+      "fruit, but are often confused for vegetables",
+      "~are a type of",
+      "tomatoes"
+    ]
+  ]
+}

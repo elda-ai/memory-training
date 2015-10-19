@@ -28,6 +28,17 @@
     "w/wood.json",
     "t/trees.json",
     "c/cells.json",
-    "h/humans.json"
+    "h/humans.json",
+    "a/are types of.json",
+    "f/flowers.json",
+    "p/plants.json",
+    "a/are a type of.json",
+    "p/plant.json",
+    "v/vegetables.json",
+    "c/carrots.json",
+    "v/vegetable.json",
+    "p/potatoes.json",
+    "t/tomatoes.json",
+    "f/fruit, but are often confused for vegetables.json"
   ]
 }

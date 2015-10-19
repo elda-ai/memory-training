@@ -1,0 +1,9 @@
+{
+  "predicates": [
+    [
+      "plants",
+      "~are types of",
+      "flowers"
+    ]
+  ]
+}

@@ -34,6 +34,16 @@
       "predicate",
       "~is a",
       "are made of"
+    ],
+    [
+      "predicate",
+      "~is a",
+      "are types of"
+    ],
+    [
+      "predicate",
+      "~is a",
+      "are a type of"
     ]
   ]
 }

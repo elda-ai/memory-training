@@ -1,0 +1,14 @@
+{
+  "predicates": [
+    [
+      "are a type of",
+      "is",
+      "a predicate"
+    ],
+    [
+      "are a type of",
+      "is a",
+      "predicate"
+    ]
+  ]
+}
