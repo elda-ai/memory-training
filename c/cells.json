@@ -1,0 +1,14 @@
+{
+  "predicates": [
+    [
+      "cells",
+      "~are made of",
+      "trees"
+    ],
+    [
+      "cells",
+      "~are made of",
+      "humans"
+    ]
+  ]
+}

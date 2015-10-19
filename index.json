@@ -7,6 +7,7 @@
     "i/is an.json",
     "m/means.json",
     "c/created.json",
+    "a/are made of.json",
     "a/a predicate.json",
     "d/disconnect.json",
     "c/command.json",
@@ -21,8 +22,12 @@
     "a/a boy.json",
     "m/male.json",
     "b/boy.json",
-    "\\/\\n.json",
     "a/a newline character.json",
-    "n/newline character.json"
+    "\\/\\n.json",
+    "n/newline character.json",
+    "w/wood.json",
+    "t/trees.json",
+    "c/cells.json",
+    "h/humans.json"
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "predicates": [
+    [
+      "wood",
+      "~are made of",
+      "trees"
+    ]
+  ]
+}
