@@ -4,12 +4,17 @@
     "p/predicate.json",
     "s/says.json",
     "s/said.json",
+    "i/is an.json",
+    "m/means.json",
+    "c/created.json",
     "d/disconnect.json",
     "c/command.json",
     "b/bye.json",
     "q/quit.json",
     "f/forget.json",
-    "i/is an.json",
-    "a/a predicate.json"
+    "a/a predicate.json",
+    "e/Elda.json",
+    "a/an AI.json",
+    "a/AI.json"
   ]
 }
