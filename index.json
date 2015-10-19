@@ -7,14 +7,17 @@
     "i/is an.json",
     "m/means.json",
     "c/created.json",
+    "a/a predicate.json",
     "d/disconnect.json",
     "c/command.json",
     "b/bye.json",
     "q/quit.json",
     "f/forget.json",
-    "a/a predicate.json",
     "a/AI.json",
     "e/Elda.json",
-    "a/an AI.json"
+    "a/an AI.json",
+    "a/Artificial Intelligence.json",
+    "j/John.json",
+    "b/boy.json"
   ]
 }
