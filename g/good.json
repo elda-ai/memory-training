@@ -1,0 +1,9 @@
+{
+  "predicates": [
+    [
+      "good",
+      "~is",
+      "awesome"
+    ]
+  ]
+}
