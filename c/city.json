@@ -1,0 +1,14 @@
+{
+  "predicates": [
+    [
+      "city",
+      "~is a",
+      "London"
+    ],
+    [
+      "city",
+      "~is a",
+      "Paris"
+    ]
+  ]
+}

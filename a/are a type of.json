@@ -2,13 +2,13 @@
   "predicates": [
     [
       "are a type of",
-      "is",
-      "a predicate"
+      "is a",
+      "predicate"
     ],
     [
       "are a type of",
-      "is a",
-      "predicate"
+      "is",
+      "a predicate"
     ]
   ]
 }
