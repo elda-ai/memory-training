@@ -8,22 +8,22 @@
     [
       "a predicate",
       "~is",
-      "are types of"
-    ],
-    [
-      "a predicate",
-      "~is",
       "created"
     ],
     [
       "a predicate",
       "~is",
-      "are a type of"
+      "are made of"
     ],
     [
       "a predicate",
       "~is",
-      "are made of"
+      "are types of"
+    ],
+    [
+      "a predicate",
+      "~is",
+      "are a type of"
     ]
   ]
 }

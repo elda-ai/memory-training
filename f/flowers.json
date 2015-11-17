@@ -2,13 +2,13 @@
   "predicates": [
     [
       "flowers",
-      "are types of",
-      "plants"
+      "are a type of",
+      "plant"
     ],
     [
       "flowers",
-      "are a type of",
-      "plant"
+      "are types of",
+      "plants"
     ]
   ]
 }

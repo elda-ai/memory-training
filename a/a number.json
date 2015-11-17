@@ -1,0 +1,54 @@
+{
+  "predicates": [
+    [
+      "a number",
+      "~is",
+      "1"
+    ],
+    [
+      "a number",
+      "~is",
+      "0"
+    ],
+    [
+      "a number",
+      "~is",
+      "2"
+    ],
+    [
+      "a number",
+      "~is",
+      "3"
+    ],
+    [
+      "a number",
+      "~is",
+      "4"
+    ],
+    [
+      "a number",
+      "~is",
+      "5"
+    ],
+    [
+      "a number",
+      "~is",
+      "6"
+    ],
+    [
+      "a number",
+      "~is",
+      "7"
+    ],
+    [
+      "a number",
+      "~is",
+      "8"
+    ],
+    [
+      "a number",
+      "~is",
+      "9"
+    ]
+  ]
+}
