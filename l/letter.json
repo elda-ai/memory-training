@@ -1,0 +1,134 @@
+{
+  "predicates": [
+    [
+      "letter",
+      "~is a",
+      "a"
+    ],
+    [
+      "letter",
+      "~is a",
+      "b"
+    ],
+    [
+      "letter",
+      "~is a",
+      "c"
+    ],
+    [
+      "letter",
+      "~is a",
+      "d"
+    ],
+    [
+      "letter",
+      "~is a",
+      "e"
+    ],
+    [
+      "letter",
+      "~is a",
+      "f"
+    ],
+    [
+      "letter",
+      "~is a",
+      "g"
+    ],
+    [
+      "letter",
+      "~is a",
+      "i"
+    ],
+    [
+      "letter",
+      "~is a",
+      "h"
+    ],
+    [
+      "letter",
+      "~is a",
+      "j"
+    ],
+    [
+      "letter",
+      "~is a",
+      "k"
+    ],
+    [
+      "letter",
+      "~is a",
+      "l"
+    ],
+    [
+      "letter",
+      "~is a",
+      "m"
+    ],
+    [
+      "letter",
+      "~is a",
+      "n"
+    ],
+    [
+      "letter",
+      "~is a",
+      "o"
+    ],
+    [
+      "letter",
+      "~is a",
+      "p"
+    ],
+    [
+      "letter",
+      "~is a",
+      "q"
+    ],
+    [
+      "letter",
+      "~is a",
+      "r"
+    ],
+    [
+      "letter",
+      "~is a",
+      "s"
+    ],
+    [
+      "letter",
+      "~is a",
+      "t"
+    ],
+    [
+      "letter",
+      "~is a",
+      "u"
+    ],
+    [
+      "letter",
+      "~is a",
+      "v"
+    ],
+    [
+      "letter",
+      "~is a",
+      "w"
+    ],
+    [
+      "letter",
+      "~is a",
+      "x"
+    ],
+    [
+      "letter",
+      "~is a",
+      "y"
+    ],
+    [
+      "letter",
+      "~is a",
+      "z"
+    ]
+  ]
+}

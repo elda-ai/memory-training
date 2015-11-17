@@ -1,0 +1,14 @@
+{
+  "predicates": [
+    [
+      "o",
+      "is",
+      "a letter"
+    ],
+    [
+      "o",
+      "is a",
+      "letter"
+    ]
+  ]
+}
