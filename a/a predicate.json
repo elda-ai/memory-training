@@ -3,11 +3,6 @@
     [
       "a predicate",
       "~is",
-      "is an"
-    ],
-    [
-      "a predicate",
-      "~is",
       "created"
     ],
     [
@@ -18,12 +13,22 @@
     [
       "a predicate",
       "~is",
+      "is an"
+    ],
+    [
+      "a predicate",
+      "~is",
       "are types of"
     ],
     [
       "a predicate",
       "~is",
       "are a type of"
+    ],
+    [
+      "a predicate",
+      "~is",
+      "describes"
     ]
   ]
 }

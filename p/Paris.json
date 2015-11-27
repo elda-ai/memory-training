@@ -2,13 +2,13 @@
   "predicates": [
     [
       "Paris",
-      "is",
-      "a city"
+      "is a",
+      "city"
     ],
     [
       "Paris",
-      "is a",
-      "city"
+      "is",
+      "a city"
     ]
   ]
 }

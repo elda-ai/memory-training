@@ -1,0 +1,9 @@
+{
+  "predicates": [
+    [
+      "Friday",
+      "~is a",
+      "Today"
+    ]
+  ]
+}

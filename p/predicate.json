@@ -3,17 +3,17 @@
     [
       "predicate",
       "~is a",
+      "said"
+    ],
+    [
+      "predicate",
+      "~is a",
       "is a"
     ],
     [
       "predicate",
       "~is a",
       "says"
-    ],
-    [
-      "predicate",
-      "~is a",
-      "said"
     ],
     [
       "predicate",
@@ -44,6 +44,11 @@
       "predicate",
       "~is a",
       "are a type of"
+    ],
+    [
+      "predicate",
+      "~is a",
+      "describes"
     ]
   ]
 }

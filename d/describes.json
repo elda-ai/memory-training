@@ -1,0 +1,14 @@
+{
+  "predicates": [
+    [
+      "describes",
+      "is",
+      "a predicate"
+    ],
+    [
+      "describes",
+      "is a",
+      "predicate"
+    ]
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "predicates": [
+    [
+      "how things work",
+      "~describes",
+      "John"
+    ]
+  ]
+}
